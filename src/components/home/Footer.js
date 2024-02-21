@@ -13,7 +13,7 @@ const Footer = () => {
             bus ticket booking through its website,iOS and Android mobile apps
             for all major routes.
           </p> */}
-          <p className="para_text" style={{height:100,marginBottom:180}}>&#169;2023 All rights reserve</p>
+          <p className="para_text" style={{height:100,marginBottom:180}}>&#169;2023 All rights reserved</p>
         </div>
       </>
     );
