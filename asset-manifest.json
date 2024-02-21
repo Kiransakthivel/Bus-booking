@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Bus-booking/static/css/main.1bb13f65.css",
+    "main.js": "/Bus-booking/static/js/main.791a2e0e.js",
+    "static/media/loading-splash.gif": "/Bus-booking/static/media/loading-splash.a70e754037ae7805630a.gif",
+    "static/media/calender.png": "/Bus-booking/static/media/calender.6eaaa495caf92e219c7b.png",
+    "static/media/about-us.jpg": "/Bus-booking/static/media/about-us.c639a8d4fab61dd3b40f.jpg",
+    "static/media/redbus_logo.png": "/Bus-booking/static/media/redbus_logo.b781ab30b18eb8f01883.png",
+    "index.html": "/Bus-booking/index.html",
+    "main.1bb13f65.css.map": "/Bus-booking/static/css/main.1bb13f65.css.map",
+    "main.791a2e0e.js.map": "/Bus-booking/static/js/main.791a2e0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bb13f65.css",
+    "static/js/main.791a2e0e.js"
+  ]
+}
